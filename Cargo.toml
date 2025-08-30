@@ -26,4 +26,4 @@ members = [
 #forest_address = { path = "../forest/vm/address" }
 
 [patch.crates-io]
-forest_address = { git = "https://github.com/boolnetwork/forest.git", branch = "token-core" }
+forest_address = { git = "https://github.com/laicj2025/forest.git", branch = "token-core" }
