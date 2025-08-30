@@ -17,7 +17,7 @@ hmac = "0.7"
 block-modes = { git = "https://github.com/laicj2025/block-ciphers.git", branch = "feature_qmrmb"}
 aes-ctr = "0.3.0"
 block-cipher-trait = { git = "https://github.com/RustCrypto/traits.git", tag = "block-cipher-trait-v0.6.0" }
-aes-soft = { git = "https://github.com/laicj2025/block-ciphers-aes-soft-v0.3.3.git", branch = "feature_aes_soft" }
+aes-soft = { git = "https://github.com/laicj2025/aes-soft.git", branch = "master" }
 pbkdf2 = "0.3.0"
 bitcoin_hashes = "0.9.3"
 crypto-mac = "0.7.0"
