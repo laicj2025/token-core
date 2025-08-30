@@ -14,7 +14,7 @@ scrypt = { version = "0.2", default-features = false }
 sha2 = "0.8.0"
 digest = "0.8"
 hmac = "0.7"
-block-modes = { git = "https://github.com/RustCrypto/block-ciphers.git", tag = "block-modes-v0.3.3" }
+block-modes = { git = "https://github.com/laicj2025/block-ciphers.gi", branch = "feature_qmrmb"}
 aes-ctr = "0.3.0"
 aes-soft = { git = "https://github.com/RustCrypto/block-ciphers.git", tag = "aes-soft-v0.3.3" }
 pbkdf2 = "0.3.0"
