@@ -186,8 +186,8 @@ lazy_static! {
         });
         chain_infos.push(ChainInfo {
             network: "M150".to_string(),
-            network_id: 17979,
-            chain_id: 17979,
+            network_id: 17980,
+            chain_id: 17980,
         });
         chain_infos.push(ChainInfo {
             network: "BOOL_BETA_TESTNET".to_string(),
