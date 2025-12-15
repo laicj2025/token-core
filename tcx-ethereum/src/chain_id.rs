@@ -190,6 +190,11 @@ lazy_static! {
             chain_id: 17980,
         });
         chain_infos.push(ChainInfo {
+            network: "SOLOMON".to_string(),
+            network_id: 17981,
+            chain_id: 17981,
+        });
+        chain_infos.push(ChainInfo {
             network: "BOOL_BETA_TESTNET".to_string(),
             network_id: 481,
             chain_id: 481,

@@ -415,6 +415,13 @@ lazy_static! {
             coin: "ETHEREUM".to_string(),
             derivation_path: "m/44'/60'/0'/0/0".to_string(),
             curve: CurveType::SECP256k1,
+            network: "SOLOMON".to_string(),
+            seg_wit: "NONE".to_string(),
+        });
+        coin_infos.push(CoinInfo {
+            coin: "ETHEREUM".to_string(),
+            derivation_path: "m/44'/60'/0'/0/0".to_string(),
+            curve: CurveType::SECP256k1,
             network: "BOOL_BETA_MAINNET".to_string(),
             seg_wit: "NONE".to_string(),
         });
